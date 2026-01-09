@@ -13,7 +13,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ## Sumary
-![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Python%20%7C%20C%20%7C%20Java%20%7C%20JS-blue?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20C%20%7C%20Java-blue?style=for-the-badge)
+![Web](https://img.shields.io/badge/Web-HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge)
+
 
 
 
