@@ -12,7 +12,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-#test
-![GitHub followers](https://img.shields.io/github/followers/Lovisi23)
+## Sumary
+![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Python%20%7C%20C%20%7C%20Java%20%7C%20JS-blue?style=for-the-badge)
+
+
 
 
